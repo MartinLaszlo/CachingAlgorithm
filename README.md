@@ -1,5 +1,5 @@
 # CachingAlgorithm
-A very specific caching algorithm for calculating prime numbers
+A very specific caching algorithm for calculating prime numbers (university project)
 I needed to create Python code which is able to take in a binary string of any length, followed by a given value (N) such as 123. This python code then must, according to the project specification, generate every possible substring from this binary string. 
 For example, “10101” - this string can be split into: 
 1 
